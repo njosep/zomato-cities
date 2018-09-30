@@ -1,0 +1,77 @@
+2018-09-30 20:49:37 INFO  Log:12 - Test Environment Set up
+2018-09-30 20:49:37 INFO  Log:22 - Executing Scenario : Positive Tests for GET Cities
+2018-09-30 20:49:38 INFO  Log:22 - Received {q=Dublin, lat=, lon=, city_ids=, count=3} as input Parameters. Request URL Created
+2018-09-30 20:49:40 INFO  Log:22 - GET call executed 
+2018-09-30 20:49:40 INFO  Log:22 - Response is: {"location_suggestions":[{"id":91,"name":"Dublin","country_id":97,"country_name":"Ireland","country_flag_url":"https:\/\/b.zmtcdn.com\/images\/countries\/flags\/country_97.png","should_experiment_with":0,"discovery_enabled":0,"has_new_ad_format":1,"is_state":0,"state_id":0,"state_name":"","state_code":""},{"id":1774,"name":"Dublin, SA","country_id":14,"country_name":"Australia","country_flag_url":"https:\/\/b.zmtcdn.com\/images\/countries\/flags\/country_14.png","should_experiment_with":0,"discovery_enabled":0,"has_new_ad_format":0,"is_state":0,"state_id":131,"state_name":"South Australia","state_code":"SA"},{"id":10791,"name":"Dublin, CA","country_id":216,"country_name":"United States","country_flag_url":"https:\/\/b.zmtcdn.com\/images\/countries\/flags\/country_216.png","should_experiment_with":0,"discovery_enabled":0,"has_new_ad_format":0,"is_state":0,"state_id":73,"state_name":"California","state_code":"CA"}],"status":"success","has_more":0,"has_total":0}
+2018-09-30 20:49:40 INFO  Log:22 - Status returned in the Response is Success
+2018-09-30 20:49:40 INFO  Log:22 - count of location suggestions in the response match the count requested
+2018-09-30 20:49:41 INFO  Log:22 - Response Time is inside 3 seconds
+2018-09-30 20:49:42 INFO  Log:22 - Response message validated against the schema
+2018-09-30 20:49:42 INFO  Log:17 - Test Environment Destroyed
+2018-09-30 20:49:42 INFO  Log:12 - Test Environment Set up
+2018-09-30 20:49:42 INFO  Log:22 - Executing Scenario : Positive Tests for GET Cities
+2018-09-30 20:49:42 INFO  Log:22 - Received {q=, lat=53.350140, lon=-6.266155, city_ids=, count=1} as input Parameters. Request URL Created
+2018-09-30 20:49:42 INFO  Log:22 - GET call executed 
+2018-09-30 20:49:42 INFO  Log:22 - Response is: {"location_suggestions":[{"id":91,"name":"Dublin","country_id":97,"country_name":"Ireland","country_flag_url":"https:\/\/b.zmtcdn.com\/images\/countries\/flags\/country_97.png","should_experiment_with":0,"discovery_enabled":0,"has_new_ad_format":1,"is_state":0,"state_id":0,"state_name":"","state_code":""}],"status":"success","has_more":0,"has_total":0}
+2018-09-30 20:49:42 INFO  Log:22 - Status returned in the Response is Success
+2018-09-30 20:49:42 INFO  Log:22 - count of location suggestions in the response match the count requested
+2018-09-30 20:49:42 INFO  Log:22 - Response Time is inside 3 seconds
+2018-09-30 20:49:42 INFO  Log:22 - Response message validated against the schema
+2018-09-30 20:49:42 INFO  Log:17 - Test Environment Destroyed
+2018-09-30 20:49:42 INFO  Log:12 - Test Environment Set up
+2018-09-30 20:49:42 INFO  Log:22 - Executing Scenario : Positive Tests for GET Cities
+2018-09-30 20:49:42 INFO  Log:22 - Received {q=, lat=, lon=, city_ids=91, count=1} as input Parameters. Request URL Created
+2018-09-30 20:49:43 INFO  Log:22 - GET call executed 
+2018-09-30 20:49:43 INFO  Log:22 - Response is: {"location_suggestions":[{"id":91,"name":"Dublin","country_id":97,"country_name":"Ireland","country_flag_url":"https:\/\/b.zmtcdn.com\/images\/countries\/flags\/country_97.png","should_experiment_with":0,"discovery_enabled":0,"has_new_ad_format":1,"is_state":0,"state_id":0,"state_name":"","state_code":""}],"status":"success","has_more":0,"has_total":0}
+2018-09-30 20:49:43 INFO  Log:22 - Status returned in the Response is Success
+2018-09-30 20:49:43 INFO  Log:22 - count of location suggestions in the response match the count requested
+2018-09-30 20:49:43 INFO  Log:22 - Response Time is inside 3 seconds
+2018-09-30 20:49:43 INFO  Log:22 - Response message validated against the schema
+2018-09-30 20:49:43 INFO  Log:17 - Test Environment Destroyed
+2018-09-30 20:49:43 INFO  Log:12 - Test Environment Set up
+2018-09-30 20:49:43 INFO  Log:22 - Executing Scenario : Positive Tests for GET Cities
+2018-09-30 20:49:43 INFO  Log:22 - Received {q=, lat=, lon=, city_ids=91,92, count=2} as input Parameters. Request URL Created
+2018-09-30 20:49:43 INFO  Log:22 - GET call executed 
+2018-09-30 20:49:43 INFO  Log:22 - Response is: {"location_suggestions":[{"id":91,"name":"Dublin","country_id":97,"country_name":"Ireland","country_flag_url":"https:\/\/b.zmtcdn.com\/images\/countries\/flags\/country_97.png","should_experiment_with":0,"discovery_enabled":0,"has_new_ad_format":1,"is_state":0,"state_id":0,"state_name":"","state_code":""},{"id":92,"name":"Ajman","country_id":214,"country_name":"UAE","country_flag_url":"https:\/\/b.zmtcdn.com\/images\/countries\/flags\/country_214.png","should_experiment_with":0,"discovery_enabled":0,"has_new_ad_format":1,"is_state":0,"state_id":0,"state_name":"","state_code":""}],"status":"success","has_more":0,"has_total":0}
+2018-09-30 20:49:43 INFO  Log:22 - Status returned in the Response is Success
+2018-09-30 20:49:43 INFO  Log:22 - count of location suggestions in the response match the count requested
+2018-09-30 20:49:43 INFO  Log:22 - Response Time is inside 3 seconds
+2018-09-30 20:49:43 INFO  Log:22 - Response message validated against the schema
+2018-09-30 20:49:43 INFO  Log:17 - Test Environment Destroyed
+2018-09-30 20:49:43 INFO  Log:12 - Test Environment Set up
+2018-09-30 20:49:43 INFO  Log:22 - Executing Scenario : Positive Tests for GET Cities
+2018-09-30 20:49:43 INFO  Log:22 - Received {q=, lat=, lon=-6.266155, city_ids=, count=0} as input Parameters. Request URL Created
+2018-09-30 20:49:44 INFO  Log:22 - GET call executed 
+2018-09-30 20:49:44 INFO  Log:22 - Response is: {"location_suggestions":[],"status":"success","has_more":0,"has_total":0}
+2018-09-30 20:49:44 INFO  Log:22 - Status returned in the Response is Success
+2018-09-30 20:49:44 INFO  Log:22 - count of location suggestions in the response match the count requested
+2018-09-30 20:49:44 INFO  Log:22 - Response Time is inside 3 seconds
+2018-09-30 20:49:44 INFO  Log:22 - Response message validated against the schema
+2018-09-30 20:49:44 INFO  Log:17 - Test Environment Destroyed
+2018-09-30 20:49:44 INFO  Log:12 - Test Environment Set up
+2018-09-30 20:49:44 INFO  Log:22 - Executing Scenario : Positive Tests for GET Cities
+2018-09-30 20:49:44 INFO  Log:22 - Received {q=, lat=, lon=, city_ids=141, count=1} as input Parameters. Request URL Created
+2018-09-30 20:49:44 INFO  Log:22 - GET call executed 
+2018-09-30 20:49:44 INFO  Log:22 - Response is: {"location_suggestions":[{"id":141,"name":"Whangarei","country_id":148,"country_name":"New Zealand","country_flag_url":"https:\/\/b.zmtcdn.com\/images\/countries\/flags\/country_148.png","should_experiment_with":0,"discovery_enabled":0,"has_new_ad_format":0,"is_state":0,"state_id":0,"state_name":"","state_code":""}],"status":"success","has_more":0,"has_total":0}
+2018-09-30 20:49:44 INFO  Log:22 - Status returned in the Response is Success
+2018-09-30 20:49:44 INFO  Log:22 - count of location suggestions in the response match the count requested
+2018-09-30 20:49:44 INFO  Log:22 - Response Time is inside 3 seconds
+2018-09-30 20:49:44 INFO  Log:22 - Response message validated against the schema
+2018-09-30 20:49:44 INFO  Log:17 - Test Environment Destroyed
+2018-09-30 20:49:44 INFO  Log:12 - Test Environment Set up
+2018-09-30 20:49:44 INFO  Log:22 - Executing Scenario : Positive Tests for GET Cities
+2018-09-30 20:49:44 INFO  Log:22 - Received {q=, lat=-6.3572375290155, lon=-6.3572375290155, city_ids=, count=0} as input Parameters. Request URL Created
+2018-09-30 20:49:45 INFO  Log:22 - GET call executed 
+2018-09-30 20:49:45 INFO  Log:22 - Response is: {"location_suggestions":[],"status":"success","has_more":0,"has_total":0}
+2018-09-30 20:49:45 INFO  Log:22 - Status returned in the Response is Success
+2018-09-30 20:49:45 INFO  Log:22 - count of location suggestions in the response match the count requested
+2018-09-30 20:49:45 INFO  Log:22 - Response Time is inside 3 seconds
+2018-09-30 20:49:45 INFO  Log:22 - Response message validated against the schema
+2018-09-30 20:49:45 INFO  Log:17 - Test Environment Destroyed
+2018-09-30 20:49:45 INFO  Log:12 - Test Environment Set up
+2018-09-30 20:49:45 INFO  Log:22 - Executing Scenario : Negative Tests for GET Cities
+2018-09-30 20:49:45 INFO  Log:22 - Received {q=Dublin, lat=, lon=, city_ids=, count=3} as input Parameters. Request URL Created
+2018-09-30 20:49:45 INFO  Log:22 - GET call executed 
+2018-09-30 20:49:45 INFO  Log:22 - Response is: {"code":403,"status":"Forbidden","message":"Invalid API Key"}
+2018-09-30 20:49:45 INFO  Log:22 - Status returned in the Response is Success
+2018-09-30 20:49:45 INFO  Log:17 - Test Environment Destroyed
