@@ -2,7 +2,7 @@
 Feature: Test Cases for the Zomato Cities GET API
 
   @zomato
-  Scenario Outline: Positive Tests for GET Cities
+  Scenario Outline: Positive Tests for the GET Cities API
     Given I set the parameters as below and provide a valid API key
       | q   | lat   | lon   | city_ids   | count   |
       | <q> | <lat> | <lon> | <city_ids> | <count> |
